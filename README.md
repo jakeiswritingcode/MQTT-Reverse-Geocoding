@@ -5,7 +5,7 @@
 - The information is published continually on a three second delay for five minutes.
 
 ## Subscribing Client
-- The subscribing client retrieves each publication from the broker and displays it to the console window.
+- The subscribing client recieves each publication from the broker and displays it to the console window.
 - An API call will be made for each publication to provide a the information availale from the Bing Maps API.
 
 ## *Dependencies*
